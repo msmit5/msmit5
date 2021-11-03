@@ -109,8 +109,9 @@ alias vimt="vim -c NERDTree"
 alias mako="make once"
 alias makco="make clean && make once" #this is one of my most common commands for making LaTeX, especially when I finish my work
 alias fesr="firefox-esr"
-alias makcofer="make clean && make once && firefox-esr *.pdf"
 alias clean="make clean"
+alias clion="/usr/local/Clion/clion-2021.2.2/bin/clion.sh &"
+alias wxhex="/wxHexEditor &"
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-LATEX ALIASES=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # This alias will allow me to quickly make files with the basics I need for Latex
 # This is designed to be like:
@@ -119,7 +120,7 @@ alias DnDTeX="cat ~/Documents/.LaTeXPresets/mattdndbookpreset.tex"
 
 # This alias is a quick way to get to my current projects
 alias cddnd="cd ~/Documents/DesertCampaign"
-alias cdclass="cd ~/Classwork/Junior"
+alias cdclass="cd ~/classwork/Junior"
 
 #=====================================================================================
 #-  -  -  -  -  -  -  -  -  -  -  -  PURE INSTALL  -  -  -  -  -  -  -  -  -  -  -  - 
