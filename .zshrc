@@ -99,6 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 
 # Aliases
+alias img="ristretto"
 alias vmware="/usr/bin/vmplayer &"
 alias spotify="spt"
 alias zshcfg="vim ~/.zshrc"
@@ -138,7 +139,7 @@ zsh ~/changedKeys #This Changes the eject disk key on an apple magic keyboard to
 
 # Adding to the path
 
-export PATH="$HOME/bin:$PATH"
+export PATH="$HOME/.emacs.d/bin:$HOME/bin:$PATH:$HOME/.local/bin"
 
 
 
