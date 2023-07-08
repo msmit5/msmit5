@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @msmit5
 - 👀 I’m interested in Cybersecurity, and I typically program in C, C++, Rust, or Python
-- 🌱 I’m currently learning Cybersecurity at the University of New Haven, and I am focusing on learning Digital Forensics  
+- 🌱 I’m currently learning Cybersecurity at the University of New Haven, and I am focusing on Reverse Engineering and Threat Hunting
 - 🐧 My .zshrc, .vimrc and .latexmkrc config files can be found in this repo! 
